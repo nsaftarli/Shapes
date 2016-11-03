@@ -1,7 +1,5 @@
 # Shapes
-Basic diagramming program in Java. Done as coursework for Computer Science II
-
-Nariman Saftarli, 500615448
+Basic diagramming program in Java. Done as coursework for Computer Science II. GraphElement.java was given by the professor. Everything else was coded by me. 
 
 What works:
 
