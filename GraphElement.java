@@ -1,4 +1,4 @@
-//Nariman Saftarli, 500615448
+//This was given by the professor
 import java.awt.Color;
 import java.awt.Graphics2D;
 
